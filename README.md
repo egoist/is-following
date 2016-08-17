@@ -8,6 +8,8 @@
   <a href="https://circleci.com/gh/egoist/is-following"><img src="https://img.shields.io/circleci/project/egoist/is-following/master.svg?style=flat-square" alt="Build Status"></a>
 </p>
 
+![preview](https://ooo.0o0.ooo/2016/08/17/57b477fab6fff.png)
+
 ## Install
 
 ```bash
