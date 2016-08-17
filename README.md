@@ -29,7 +29,7 @@ $ is-following tj sindresorhus
 $ npm install --save is-following
 ```
 
-## Usage
+### Usage
 
 ```js
 const isFollowing = require('is-following')
